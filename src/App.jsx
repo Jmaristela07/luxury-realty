@@ -1,12 +1,12 @@
 import React, { useState } from 'react';
 import House from './assets/house2.jpg';
 import Logo from './assets/logo.jpg';
-import Marci from './assets/MARCI METZGER.jpg';
+import Marci from './assets/marci_metzger.jpg';
 import Logo1 from './assets/logo1.jpg';
 import Logo2 from './assets/logo2.jpg';
 import Logo3 from './assets/logo3.jpg';
 import Logo4 from './assets/logo4.jpg';
-import Facebook from './assets/facebook..svg';
+import Facebook from './assets/facebook.svg';
 import Instagram from './assets/instagram.svg';
 import Linkedin from './assets/linkedin.svg';
 import Yelp from './assets/yelp.svg';
