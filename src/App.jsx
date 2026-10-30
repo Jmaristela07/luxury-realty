@@ -34,13 +34,13 @@ export default function App() {
   });
 
   const images = [
-    { src: Picture1, title: 'Featured Property', desc: 'Luxury Residence' },
-    { src: Picture2, title: 'Interior Living Space', desc: 'Modern Architectural Design' },
-    { src: Picture3, title: 'Gourmet Kitchen', desc: 'Premium Finishes' },
-    { src: Picture4, title: 'Master Suite', desc: 'Spacious & Elegant' },
-    { src: Picture5, title: 'Outdoor Living', desc: 'Private Oasis' },
-    { src: Picture6, title: 'Scenic Views', desc: 'Pahrump Valley Landscape' },
-    { src: Picture7, title: 'Estate Grounds', desc: 'Prime Nevada Real Estate' },
+    { src: Picture1 },
+    { src: Picture2 },
+    { src: Picture3 },
+    { src: Picture4 },
+    { src: Picture5 },
+    { src: Picture6 },
+    { src: Picture7 },
   ];
 
   const [currentIndex, setCurrentIndex] = useState(0);
