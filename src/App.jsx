@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import House from './assets/house2.jpg';
-import Logo from './assets/logo.jpg';
+import Logo from './assets/Logo.jpg';
 import Marci from './assets/marci_metzger.jpg';
 import Logo1 from './assets/logo1.jpg';
 import Logo2 from './assets/logo2.jpg';
