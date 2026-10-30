@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+/* Optional: Custom Theme Variables for Luxury Real Estate Theme */
+@theme {
+  --color-gold: #C5A880;
+  --color-luxury-dark: #111827;
+  --color-luxury-cream: #FBF9F5;
+  --font-serif: "Playfair Display", Georgia, serif;
+}
